@@ -3,7 +3,7 @@ Sharing the resources for the **job openings**, **code interview**, and **knowle
 
 Specifically suitable for the PhD students' reference when they are trying to find a summer internship or full-time position in the United States.
 
-## 2025 Summer Internship
+## Job Openings - 2025 Summer Internship
 - [GitHub Repo: 2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs?tab=readme-ov-file)
   2025 Artificial Intelligence Internship & New Grad Positions:
 
